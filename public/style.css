@@ -86,9 +86,3 @@
         margin: 0.3rem;
     }
 }
-@media screen and (min-width: 455px) {
-    .quote-wrapper{
-        width: 100%;
-        height: 100%;
-    }
-}
